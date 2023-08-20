@@ -1,7 +1,7 @@
-# Convert_text_to_Speech Python Project
+# Convert Arabic text to Speech Python Project
 
 
-This is a Python project that allows you to convert text into speech using various text-to-speech (TTS) engines. It provides a simple and user-friendly interface to convert your textual content into spoken words. Whether you're looking to create audiobooks, accessibility features, or simply have some fun with text-to-speech technology, this project has got you covered!
+This is a Python project that allows you to convert text into speech using various text-to-speech (TTS) engines. Whether you're looking to create audiobooks, accessibility features, or simply have some fun with Arabic text-to-speech technology, this project has got you covered!
 
 - **Save as Audio**: You can save the generated speech as audio files in various formats, making it convenient for offline use or sharing.
 
