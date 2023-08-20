@@ -3,21 +3,8 @@
 
 This is a Python project that allows you to convert text into speech using various text-to-speech (TTS) engines. It provides a simple and user-friendly interface to convert your textual content into spoken words. Whether you're looking to create audiobooks, accessibility features, or simply have some fun with text-to-speech technology, this project has got you covered!
 
-## Features
-
-- **Multiple TTS Engines**: This project supports multiple text-to-speech engines, allowing you to choose the one that suits your preferences or needs.
-
-- **Customization Options**: You can customize aspects of the generated speech, such as voice pitch, rate, volume, and more, depending on the chosen TTS engine.
-
 - **Save as Audio**: You can save the generated speech as audio files in various formats, making it convenient for offline use or sharing.
 
-## Supported TTS Engines
-
-1. **Google Text-to-Speech**: Utilizes Google's TTS technology to generate high-quality speech.
-
-2. **Microsoft Azure Text-to-Speech**: Connects to the Azure TTS service for natural and expressive speech synthesis.
-
-3. **Amazon Polly**: Interacts with Amazon's Polly service to generate lifelike speech.
 
 ## Installation
 
