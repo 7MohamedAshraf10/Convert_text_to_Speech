@@ -1,6 +1,5 @@
 # Convert_text_to_Speech Python Project
 
-![Project Logo](project_logo.png)
 
 This is a Python project that allows you to convert text into speech using various text-to-speech (TTS) engines. It provides a simple and user-friendly interface to convert your textual content into spoken words. Whether you're looking to create audiobooks, accessibility features, or simply have some fun with text-to-speech technology, this project has got you covered!
 
@@ -57,32 +56,3 @@ Before you start using this project, you need to install the necessary dependenc
    ```
    pip install -r requirements.txt
    ```
-
-## Usage
-
-1. Clone this GitHub repository and navigate to the project directory:
-   ```
-   git clone https://github.com/your-username/Convert_text_to_Speech.git
-   cd Convert_text_to_Speech
-   ```
-
-2. Run the Python script:
-   ```
-   python convert_text_to_speech.py
-   ```
-
-3. Follow the on-screen instructions to input the text you want to convert and select the desired TTS engine and customization options.
-
-4. Enjoy the generated speech! You can listen to it directly or save it as an audio file.
-
-## Contributing
-
-If you'd like to contribute to this project, feel free to open issues or submit pull requests on the [GitHub repository](https://github.com/your-username/Convert_text_to_Speech). Your feedback and contributions are highly appreciated!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to reach out to us with any questions, suggestions, or feedback. Happy text-to-speech converting!
